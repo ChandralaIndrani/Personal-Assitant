@@ -1,0 +1,2 @@
+python personalassistant.py
+pause
